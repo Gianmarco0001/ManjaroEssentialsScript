@@ -37,7 +37,7 @@ The script will install:
 
 git clone https://github.com/Gianmarco0001/ManjaroEssentialsScript.git
 
-cd Manjaro-Essentials-Script
+cd ManjaroEssentialsScript
 
 chmod +x MES.sh 
 
